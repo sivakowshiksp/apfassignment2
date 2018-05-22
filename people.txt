@@ -1,0 +1,42 @@
+Adam                                             M    35VIC
+                                   student at
+Alex Smith   images/3170_1.png     RMIT          M    21WA
+Alice        images/Alice.jpg                    F    30VIC
+Asakusa
+Tokyo        images/115705.jpg                    M   21VIC
+Asano        images/IMG_2070.JPG feeling dizzy M      27VIC
+                                 Just had been
+Ascent Sport images/IMG_0470.JPG refuelled       M    27VIC
+                                 manager at
+Ben Turner images/IMG_2035.jpg Coles             M    35VIC
+Bob                                               M   29VIC
+                                 just had an
+Camry                            inspection on
+Toyota       images/41446.png    the chassis F        28VIC
+                                 CFA at
+Carl Wong    images/IMG_0488.JPG Vanguard        M    32VIC
+Chauffeur                        starting the
+Bear         images/IMG_0068.jpg engine          M    27VIC
+                                 Selling ice
+Evangelos                        cream on the
+Papadopoulosimages/153846.jpg    beach           M    32VIC
+Fiesta Ford images/IMG_9348.jpg keep moving F         25VIC
+                                 student at
+Hannah Whiteimages/IMG_3181.jpg PLC              F    14VIC
+Ivan Zhang images/IMG_3917.PNGphotographingM          26VIC
+K Turner     images/IMG_0593.jpg                  M    4VIC
+Kevin YE     images/IMG_3997.JPG coding          M    27VIC
+Luke                                              M    4VIC
+Mark Turner images/IMG_0052.JPG                   M    4VIC
+Orkhan                           I'm feeling like
+Azizlee      images/0464.png     a boss          M    25VIC
+RMIT                             I'm full right
+University   images/IMG_0229.JPG now             F    26VIC
+                                 sales rep in
+                                 Toyota
+Ray Rui      images/IMG_0436.JPG dealership      M    40VIC
+Sakura
+Gaimu        images/180422.png                    F   27NSW
+                                 Founder of
+Zoe Foster images/IMG_3717.JPG ZFX               F    28VIC
+

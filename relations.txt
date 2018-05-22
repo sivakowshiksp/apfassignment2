@@ -1,0 +1,35 @@
+             Asakusa
+Adam         Tokyo Classmate
+Alex Smith   Bob     Friend
+             Kevin
+Alex Smith YE        Colleague
+Alice        Bob     Couple
+Alice        Luke    Parent
+Asakusa      Ben
+Tokyo        Turner Friend
+             Ascent
+Asano        Sport   Classmate
+             Ascent
+Asano        Sport   Colleague
+             Hannah
+Ben Turner White Parent
+             Zoe
+Ben Turner Foster Classmate
+             Zoe
+Ben Turner Foster Couple
+Bob          Luke    Parent
+Evangelos    Kevin
+Papadopoulos YE      Classmate
+Evangelos    Kevin
+Papadopoulos YE      Colleague
+Evangelos    Orkhan
+Papadopoulos Azizlee Classmate
+             Zoe
+Hannah White Foster Parent
+             Kevin
+Ivan Zhang YE        Classmate
+             Kevin
+Ivan Zhang YE        Colleague
+             Orkhan
+Kevin YE     Azizlee Classmate
+
